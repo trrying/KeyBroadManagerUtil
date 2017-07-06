@@ -24,4 +24,4 @@ dependencies {
 ## Usage
 
 ##Thanks
-886 fuck
+886 Fnad
